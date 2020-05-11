@@ -20,6 +20,6 @@ These orange enemies do not have a set patrol. They will randomly move around th
 ### Seeker
 The toughest enemy to outwit. These will chase after you as long as you are out of a safe point.
 
-# Editor
+## Editor
 
 The editor can be used to create custom levels which can then be loaded in and played. Simply pick a tile size and resolution then start adding tiles and enemies. When adding an enemy patrol, if you click and hold for at least 1 second the enemy will pause for that amout of time on the tile.
